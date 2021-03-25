@@ -31,7 +31,7 @@ class TestMnemoscheme(MnemoschemeApplication):
         self.setup_home_button()
 
     def login(self):
-        self.setup_login(log='sam', passwd='sam')
+        self.setup_login(log='cam', passwd='cam')
 
     def start_methods_tm(self):
         methods_def = []
