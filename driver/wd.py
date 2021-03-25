@@ -7,7 +7,7 @@ class SelDrv:
     def __init__(self):
         self.capabilities = {
             "browserName": "chrome",
-            "browserVersion": "89.0",
+            "browserVersion": "87.0",
             "selenoid:options": {
                 "enableVNC": True,
                 "enableVideo": False,
